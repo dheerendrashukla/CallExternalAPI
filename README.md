@@ -23,3 +23,4 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+Command used to run it as - cds run (cds watch will not work here)
