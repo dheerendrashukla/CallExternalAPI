@@ -1,5 +1,5 @@
 # Getting Started
-
+to run project use - cds run command////
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
